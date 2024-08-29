@@ -1,11 +1,12 @@
 <p align="center">Hi! <br/>I'm Musician,<br/>Front End Developer<br/>and Junior Offensive Security Specialist<br/>from Azerbaijan, Baku.</p>
 
-[![wakatime](https://wakatime.com/badge/user/adf1a76e-d1ca-41d0-aa8c-f599c1c1897c.svg)](https://wakatime.com/@adf1a76e-d1ca-41d0-aa8c-f599c1c1897c)
 
 <details>
 <summary>Total GitHub contributions</summary>
 <p align="center">
     <a href="#">
+[![wakatime](https://wakatime.com/badge/user/adf1a76e-d1ca-41d0-aa8c-f599c1c1897c.svg)](https://wakatime.com/@adf1a76e-d1ca-41d0-aa8c-f599c1c1897c)
+        
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Agakhan Sarkhanov's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=agakhansr&theme=radical&hide_border=true"/>
     </a>
 </p>
