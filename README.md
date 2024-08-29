@@ -1,9 +1,11 @@
 <p align="center">Hi! <br/>I'm Musician,<br/>Front End Developer<br/>and Junior Offensive Security Specialist<br/>from Azerbaijan, Baku.</p>
-<p align="center">
+
     
 [![wakatime](https://wakatime.com/badge/user/adf1a76e-d1ca-41d0-aa8c-f599c1c1897c.svg)](https://wakatime.com/@adf1a76e-d1ca-41d0-aa8c-f599c1c1897c)
 
-</p>
+
+
+<p align="center">
 <details>
 <summary>Total GitHub contributions</summary>
 <p align="left">
@@ -12,6 +14,7 @@
     </a>
 </p>
 </details> <br/>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=agakhansr&style=for-the-badge&abbreviated=true&color=yellow) <br/>
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agakhan)](https://github.com/anuraghazra/github-readme-stats)
