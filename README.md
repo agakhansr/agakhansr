@@ -11,7 +11,7 @@ Hi! <br/>I'm Musician,<br/>Front End Developer<br/>and Junior Offensive Security
 </details> <br/>
 
 ![](https://komarev.com/ghpvc/?username=agakhansr&style=for-the-badge&abbreviated=true&color=yellow) <br/>
-## [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agakhan)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agakhansr&show_icons=true&theme=transparent)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agakhan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer">
