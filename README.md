@@ -1,4 +1,4 @@
-Hi! <br/>I'm Musician,<br/>Front End Developer<br/>and Junior Offensive Security Specialist<br/>from Azerbaijan, Baku.
+<p align="center">Hi! <br/>I'm Musician,<br/>Front End Developer<br/>and Junior Offensive Security Specialist<br/>from Azerbaijan, Baku.</p>
 [![wakatime](https://wakatime.com/badge/user/adf1a76e-d1ca-41d0-aa8c-f599c1c1897c.svg)](https://wakatime.com/@adf1a76e-d1ca-41d0-aa8c-f599c1c1897c)
 <details>
 <summary>Total GitHub contributions</summary>
