@@ -6,7 +6,6 @@
 <summary>Total GitHub contributions</summary>
 <p align="center">
     <a href="#">
-        
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Agakhan Sarkhanov's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=agakhansr&theme=radical&hide_border=true"/>
     </a>
 </p>
