@@ -11,7 +11,7 @@
 </p>
 </details> <br/>
 
-![](https://komarev.com/ghpvc/?username=agakhansr&style=for-the-badge&abbreviated=true&color=yellow) <br/>
+![](https://komarev.com/ghpvc/?username=agakhansr) <br/>
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agakhan)](https://github.com/anuraghazra/github-readme-stats)
 
 
