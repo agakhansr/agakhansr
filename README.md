@@ -9,5 +9,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer">
 
 <br />
-[(https://github-profile-trophy.vercel.app/?username=agakhansr)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=agakhansr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
