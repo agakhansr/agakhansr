@@ -9,6 +9,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer">
 
 <br />
-![](https://github-profile-trophy.vercel.app/?username=agakhansr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cavid-aliyev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
 
