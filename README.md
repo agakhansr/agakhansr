@@ -3,7 +3,8 @@
 ---
 
 ### 📦 My First NPM Package  
-[![NPM Version](https://img.shields.io/npm/v/@azeagakhan/clickaway.svg?style=flat-square)](https://www.npmjs.com/package/@azeagakhan/clickaway)
+[![NPM Version](https://img.shields.io/npm/v/@azeagakhan/clickaway.svg?style=for-the-badge)](https://www.npmjs.com/package/@azeagakhan/clickaway)
+[![NPM Downloads](https://img.shields.io/npm/dm/@azeagakhan/clickaway.svg?style=for-the-badge)](https://www.npmjs.com/package/@azeagakhan/clickaway)
 
 A lightweight React utility for handling click-outside events.
 
