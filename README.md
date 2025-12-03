@@ -1,7 +1,13 @@
 <p align="center">Musician,<br/>Front End Developer<br/>and Junior Offensive Security Specialist<br/>from Azerbaijan, Baku.</p>
 
-[![NPM Version](https://img.shields.io/npm/v/@azeagakhan/clickaway.svg?style=for-the-badge)](https://www.npmjs.com/package/@azeagakhan/clickaway)
-[![NPM Downloads](https://img.shields.io/npm/dm/@azeagakhan/clickaway.svg?style=for-the-badge)](https://www.npmjs.com/package/@azeagakhan/clickaway)
+---
+
+### 📦 My First NPM Package  
+[![NPM Version](https://img.shields.io/npm/v/@azeagakhan/clickaway.svg?style=flat-square)](https://www.npmjs.com/package/@azeagakhan/clickaway)
+
+A lightweight React utility for handling click-outside events.
+
+---
 
 [![wakatime](https://wakatime.com/badge/user/adf1a76e-d1ca-41d0-aa8c-f599c1c1897c.svg)](https://wakatime.com/@adf1a76e-d1ca-41d0-aa8c-f599c1c1897c)
 ![](https://komarev.com/ghpvc/?username=agakhansr)
