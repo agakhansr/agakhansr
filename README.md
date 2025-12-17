@@ -15,6 +15,4 @@ A lightweight React utility for handling click-outside events.
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agakhan)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=agakhansr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer">
